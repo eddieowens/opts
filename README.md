@@ -6,6 +6,11 @@
 
 Generic varargs options for your funcs
 
+## Install
+```
+go get github.com/eddieowens/opts
+```
+
 ## Why
 
 It's very common within several libraries to use vararg options e.g. in the
